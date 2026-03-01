@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats-git-master-joeegins-projects.vercel.app/api?username=Joeegin)
+![Anurag's GitHub stats](http://github-readme-stats-eight-mu-94.vercel.app/api?username=Joeegin)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joeegin/Joeegin/output/github-contribution-grid-snake-dark.svg">
