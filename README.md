@@ -14,6 +14,13 @@ Currently contributing to [**baidu/vLLM-Kunlun**](https://github.com/baidu/vLLM-
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
+<p>
+  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-4B32C3?style=flat-square" />
+  <img alt="SGLang" src="https://img.shields.io/badge/SGLang-1F6FEB?style=flat-square" />
+  <img alt="Triton" src="https://img.shields.io/badge/Triton-8A2BE2?style=flat-square" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
+
 Feel free to poke around 👀
 
 <div align="center">
