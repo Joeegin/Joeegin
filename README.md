@@ -2,7 +2,7 @@
 
 I'm Joeegin — I mostly write **C++** and **Python**, and hang around LLM inference engines and systems programming.
 
-When I'm not reading someone else's scheduler code, I build small things for fun: a Raft KV store, a coroutine server, and an options-trading game that tries very hard to make Greeks less scary. 🎮
+When I'm not reading someone else's scheduler code, I build small things for fun: a Raft KV store, a coroutine server, and an OOT plugin skeleton for bringing new accelerators up on vLLM. 🔌
 
 Currently contributing to [**baidu/vLLM-Kunlun**](https://github.com/baidu/vLLM-Kunlun) — making vLLM run on Kunlun XPU. ⚡
 
